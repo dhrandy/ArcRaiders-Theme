@@ -1,7 +1,0 @@
-Download the font at the following link:
-https://www.dafont.com/oxanium.font
-
-Oxanium-Bold.ttf
-
-Place it in the following folder:
-Programs\Turing System Monitor\res\fonts\arc-raiders
